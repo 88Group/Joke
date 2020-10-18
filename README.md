@@ -1,2 +1,0 @@
-# Joke
-Joke_generator
